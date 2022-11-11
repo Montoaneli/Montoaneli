@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="right" alt="Rafa-pic" height="150"style="border-radius:50px;"src="https://64.media.tumblr.com/273776f240a54886e1751600097cf9f7/c9e69ddba4daccfb-57/s400x600/74091452add4620a8ae213b0e2c0308397f4c797.gif">
+  <a href="https://www.linkedin.com/in/matheus-m-de-souza-913a761a1/"><img align="right" alt="Rafa-pic" height="150"style="border-radius:50px;"src="https://64.media.tumblr.com/273776f240a54886e1751600097cf9f7/c9e69ddba4daccfb-57/s400x600/74091452add4620a8ae213b0e2c0308397f4c797.gif"></a>
 </div>
   
   ##
